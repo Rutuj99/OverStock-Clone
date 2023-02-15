@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>signup and signin</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+    <form>
+    <div id="alertBox">Invalid details.</div>
+
+    <div id="scontainer">
+        
+        <div id="signup">
+          
+            <h3>Sign Up</h3>
+            <label for="">Email Address*</label>
+           
+            <input id="email" type="email" placeholder="Email">
+            <div id="passwordDiv">
+                <div>
+                    <label for="">Create Password*</label>
+                    <input id="pass" type="password" placeholder="password">
+
+                </div>
+                <!-- <div>
+                    <label for="">Confirm Password*</label>
+                    <input id="cpass" type="password" placeholder="Confirm Password">
+
+                </div> -->
+            </div>
+
+            <div id="check">
+                <input type="checkbox" name="" id="">
+                <label for="">Sign up today for exclusive offers from Overstock.com delivered right to your inbox**</label>
+            </div>
+
+            <button  onclick="funclick()" id="ca">Sign Up</button>
+            <div id="bar"></div>
+            <button id="cag">Continue as Guest</button>
+     
+            <p>By creating an account or continuing as a Guest, you agree to our <a href="">Terms & Conditions</a>  and <a href="">Privacy Policy.</a> </p>
+            <p><a href="">Terms & Conditions</a> |<a href="">Privacy Policy.</a><br>**You can unsubscribe at any time</p>
+        
+        </div>
+    </form>
+  
+
+        <div id="vbar"></div>
+        <div id="signin">
+            <h3>Sign In</h3>
+
+            <label for="">Email Address*</label>
+            <input type="email" name="" id="uemail" placeholder="Email">
+
+            <label for="">Passsword*</label>
+            <input type="password" placeholder="Password" id="upass">
+
+            <button  onclick="funclick2()"  id="si">Sign In</button>
+
+            <a href="">Forgot your password?</a>
+
+
+
+
+        </div>
+
+    </div>
+
+    <!-- <div id="sfooter">
+        <img src="assets/Screenshot 2022-09-29 101714.png" alt="">
+    </div> -->
+    
+</body>
+</html>
+<script src="login.js"></script>
+</body>
+</html>
