@@ -32,7 +32,7 @@ Our team developed a clone of the Overstock website as our first project in Masa
 
 
 
-## 🛠 Skills Used
+## 🛠 Technologies Used
 Javascript, HTML, CSS
 
 
