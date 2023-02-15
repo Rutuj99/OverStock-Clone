@@ -50,6 +50,7 @@ Javascript, HTML, CSS
 ![Screenshot 2023-02-15 153652](https://user-images.githubusercontent.com/55624994/218997607-a2cd60a3-cb66-4b43-b2f4-f758da1d8590.png)
 4.Cart Page
 ![Screenshot 2023-02-15 153048](https://user-images.githubusercontent.com/55624994/218996688-49fda081-9f45-423c-8006-527760969d5a.png)
+5.Payment Page
 ![Screenshot 2023-02-15 153137](https://user-images.githubusercontent.com/55624994/218996710-0b356c7e-2095-4695-aa9e-5c319875a9a3.png)
 
 ![Screenshot 2023-02-15 153203](https://user-images.githubusercontent.com/55624994/218996735-a219ceed-a5a9-454d-9a5a-36a8c566c06f.png)
