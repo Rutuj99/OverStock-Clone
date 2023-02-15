@@ -38,14 +38,13 @@ Javascript, HTML, CSS
 
 ## Screenshots
 
-
+1.Sign IN/UP
 ![Screenshot 2023-02-15 153022](https://user-images.githubusercontent.com/55624994/218996368-b3a471ca-1828-481b-aaa0-3e37fad29e0b.png)
-
+2. Home Page
 ![Screenshot 2023-02-15 152749](https://user-images.githubusercontent.com/55624994/218996418-e582c49d-6842-40e8-9be3-f4e033688de7.png)
 ![Screenshot 2023-02-15 152903](https://user-images.githubusercontent.com/55624994/218996471-16d68a29-7e24-4c40-ba11-0ba823a424b9.png)
 ![Screenshot 2023-02-15 152926](https://user-images.githubusercontent.com/55624994/218996588-7fbcbb5b-90df-48f6-8d2c-7c603857eb6a.png)
-[Screenshot 2023-02-15 152948](https://user-images.githubusercontent.com/55624994/218996609-1182ac71-828f-4234-a094-2b7f73d49e06.png)
-
+![Screenshot 2023-02-15 152948](https://user-images.githubusercontent.com/55624994/218996990-fbad9563-59fe-4835-a25c-6f2560d5fea2.png)
 
 ![Screenshot 2023-02-15 153004](https://user-images.githubusercontent.com/55624994/218996666-191b7538-5f9e-4308-865d-961cd124bf74.png)
 
