@@ -43,8 +43,7 @@ Javascript, HTML, CSS
 
 ## Demo
 
-Insert gif or link to demo
-
+https://user-images.githubusercontent.com/55624994/218994725-f83fb3a8-0867-4d56-8bfb-88316a871a7e.mp4
 
 ## Project Challenges and Learnings
 
