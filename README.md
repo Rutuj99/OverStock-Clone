@@ -45,9 +45,10 @@ Javascript, HTML, CSS
 ![Screenshot 2023-02-15 152903](https://user-images.githubusercontent.com/55624994/218996471-16d68a29-7e24-4c40-ba11-0ba823a424b9.png)
 ![Screenshot 2023-02-15 152926](https://user-images.githubusercontent.com/55624994/218996588-7fbcbb5b-90df-48f6-8d2c-7c603857eb6a.png)
 ![Screenshot 2023-02-15 152948](https://user-images.githubusercontent.com/55624994/218996990-fbad9563-59fe-4835-a25c-6f2560d5fea2.png)
-
 ![Screenshot 2023-02-15 153004](https://user-images.githubusercontent.com/55624994/218996666-191b7538-5f9e-4308-865d-961cd124bf74.png)
-
+3.Product Page
+![Screenshot 2023-02-15 153652](https://user-images.githubusercontent.com/55624994/218997607-a2cd60a3-cb66-4b43-b2f4-f758da1d8590.png)
+4.Cart Page
 ![Screenshot 2023-02-15 153048](https://user-images.githubusercontent.com/55624994/218996688-49fda081-9f45-423c-8006-527760969d5a.png)
 ![Screenshot 2023-02-15 153137](https://user-images.githubusercontent.com/55624994/218996710-0b356c7e-2095-4695-aa9e-5c319875a9a3.png)
 
