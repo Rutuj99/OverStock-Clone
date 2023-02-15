@@ -1,3 +1,0 @@
-# OverStock-Clone
-
-
