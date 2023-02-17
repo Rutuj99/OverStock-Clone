@@ -33,7 +33,7 @@ Our team developed a clone of the Overstock website as our first project in Masa
 
 
 ## 🛠 Technologies Used
-Javascript,![image](https://user-images.githubusercontent.com/55624994/219681647-f3cf672e-81ad-453d-88e1-39789765233e.png) HTML, CSS,
+Javascript,HTML, CSS,🛠
 
 
 
