@@ -22,18 +22,9 @@ function checkEmail(event) {
 
 
 function funclick(){
-    if(flag==false){
-       alert("wrong")
-       return
-    }
+   
     var arr= JSON.parse(localStorage.getItem("account-data")) || [] 
     var x2=document.getElementById("email").value 
-
-  
-
-
-
-
   var x3=document.getElementById("pass").value 
   if(x2==="" || x3===""){
     alert("fill all input data")
@@ -48,6 +39,7 @@ function funclick(){
       arr.push(obj)
     
       localStorage.setItem("account-data",JSON.stringify(arr))
+      alert("Sign Up Successfull")
     
 
 
@@ -62,44 +54,15 @@ function funclick2(){
     var flag=false;
     arr1.map(function(elem){
         if(elem.email===y2 && elem.pass===y3){
-          flag=true
+          window.location.href = 'index.html';
+          alert("Sign In successfull")
+          flag=true;
         }
       })
                  
-      if(flag==false)  {
-        alert("wrong email or password")
-      }else{
-        alert("Sign In successfull")
-        function redirectToHomePage() {
-            window.location.replace("index.html");
-          }
-          
-          redirectToHomePage();
-      
+      if(flag==false){
+        alert("wrong")
       }
         
 }
-
-// var arr1= JSON.parse(localStorage.getItem("account-data")) 
-//   document.querySelector("form").addEventListener("submit",funn1)
-//   function funn1(){
-//     event.preventDefault();
-//     var y2=document.getElementById("email").value 
-//     var y3=document.getElementById("password").value
-//     var flag=false;
-    // arr1.map(function(elem){
-    //   if(elem.email===y2 && elem.pass===y3){
-    //     flag=true
-    //   }
-    // })
-
-//     if(flag===false){
-//       document.getElementById("heading").innerText="Wrong Credentials"
-//     }else{
-//       document.getElementById("heading").innerText="Sign in Successful"
-//     }
-//   }
-
-
-//   ____________________________________________________
 
