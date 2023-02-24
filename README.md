@@ -18,7 +18,7 @@ Our team developed a clone of the Overstock website as our first project in Masa
 
 
 ## Deployment Link
--https://keen-gumption-fb166b.netlify.app/
+- https://keen-gumption-fb166b.netlify.app/
 
 
 
