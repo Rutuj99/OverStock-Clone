@@ -18,7 +18,7 @@ Our team developed a clone of the Overstock website as our first project in Masa
 
 
 ## Deployment Link
-- [https://www.overstock.com/-Clone](https://jovial-choux-b50b57.netlify.app/)
+-https://keen-gumption-fb166b.netlify.app/
 
 
 
