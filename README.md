@@ -3,25 +3,8 @@
 
 Dream Homes for All. This website offer a wide selection of high-quality merchandise at a great value to help you turn your house into the home you've always wanted. 
 
-## Appendix
-
-Our team developed a clone of the Overstock website as our first project in Masai School's Full-Stack Web Development program. The project aimed to develop our skills in web development and work as a team to create a full-fledged website.
-
-
-## Authors
-
-- Md Iftekhar Ansari
-- Nadeem Shaikh
-- Rutuj Gopale
-- Sumit Saurabh
-
-
-
 ## Deployment Link
 - https://keen-gumption-fb166b.netlify.app/
-
-
-
 
 ## Features
 
@@ -30,12 +13,8 @@ Our team developed a clone of the Overstock website as our first project in Masa
 - Shopping cart and checkout system
 - Payment Page 
 
-
-
 ## 🛠 Technologies Used
 Javascript,HTML, CSS
-
-
 
 ## Screenshots
 
@@ -68,10 +47,6 @@ During the project, we faced several challenges, including implementing the shop
 ## Future Scope
 
 In the future, we plan to add more features to our Overstock clone, such as a product recommendation system, customer reviews, and a more advanced search functionality. We also plan to improve the performance and responsiveness of the website.
-
-## Conclusion
-
- Overall, our first project in Masai School's Full-Stack Web Development program was a challenging and rewarding experience. We gained valuable experience in web development and worked as a team to create a fully functional website. We are excited to continue learning and building new projects in the future.
 
 ## Feedback
 
