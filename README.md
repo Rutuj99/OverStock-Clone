@@ -46,9 +46,8 @@ Our team developed a clone of the Overstock website as our first project in Masa
                                                                                                                             
  
 </div>
-                                                                                                                                   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-
+                                                                                                                               
+## [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## Screenshots
 
