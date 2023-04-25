@@ -62,17 +62,17 @@ https://user-images.githubusercontent.com/55624994/218994725-f83fb3a8-0867-4d56-
 
 ## Project Challenges and Learnings
 
-During the project, we faced several challenges, including implementing the shopping cart and sorting system, setting up user authentication and authorization, and integrating the front-end and back-end(localstorage).
+- During the project, we faced several challenges, including implementing the shopping cart and sorting system, setting up user authentication and authorization, and integrating the front-end and back-end(localstorage).
 
 ## Future Scope
 
-In the future, we plan to add more features to our Overstock clone, such as a product recommendation system, customer reviews, and a more advanced search functionality. We also plan to improve the performance and responsiveness of the website.
+- In the future, we plan to add more features to our Overstock clone, such as a product recommendation system, customer reviews, and a more advanced search functionality. We also plan to improve the performance and responsiveness of the website.
 
 ## Conclusion
 
- Overall, our first project in Masai School's Full-Stack Web Development program was a challenging and rewarding experience. We gained valuable experience in web development and worked as a team to create a fully functional website. We are excited to continue learning and building new projects in the future.
+- Overall, our first project in Masai School's Full-Stack Web Development program was a challenging and rewarding experience. We gained valuable experience in web development and worked as a team to create a fully functional website. We are excited to continue learning and building new projects in the future.
 
 ## Feedback
 
-If you have any feedback, please reach out to rutujbg99@gmail.com
+- If you have any feedback, please reach out to rutujbg99@gmail.com
 
