@@ -41,7 +41,9 @@ Our team developed a clone of the Overstock website as our first project in Masa
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  
  
-  <img src="[https://github.com/twbs/bootstrap/blob/main/README.md](https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png)" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+   <a href="https://getbootstrap.com/">
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+  </a>
  
  
 </div>
