@@ -43,6 +43,7 @@ Our team developed a clone of the Overstock website as our first project in Masa
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="50" height="40">
   </a>
  
+     <svg width="256px" height="154px" viewBox="0 0 256 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">                                                                                                                               
  
 </div>
 
