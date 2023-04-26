@@ -55,7 +55,7 @@ Our team developed a clone of the Overstock website as our first project in Masa
 
 ![Screenshot 2023-02-15 153203](https://user-images.githubusercontent.com/55624994/218996735-a219ceed-a5a9-454d-9a5a-36a8c566c06f.png)
 
-## Demo!
+## Demo Video
 
 
 https://user-images.githubusercontent.com/55624994/218994725-f83fb3a8-0867-4d56-8bfb-88316a871a7e.mp4
